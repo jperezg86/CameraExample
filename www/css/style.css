@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+.home button {
+    max-width: 80%;
+    margin: auto;
+    display: block;
+    margin-top: 1em;
+
+}
+
+.home img{
+	max-width: 100%;
+    padding: 10%;
+}
